@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\user\\Desktop\\Androin\\Android_td2\\Android_TD2\\AndroClassLoader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\Desktop\\Androin\\Android_td2\\Android_TD2\\AndroClassLoader\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,4,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "163,56,110,216,288,360",
+                        "endColumns": "52,53,52,71,71,63",
+                        "endOffsets": "211,105,158,283,355,419"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "169,222,276,329,401,473",
+                        "endColumns": "52,53,52,71,71,63",
+                        "endOffsets": "217,271,324,396,468,532"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Desktop\\Androin\\Android_td2\\Android_TD2\\AndroClassLoader\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Desktop\\Androin\\Android_td2\\Android_TD2\\AndroClassLoader\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "10,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "537,828",
+                        "endLines": "16,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "823,983"
+                    }
+                }
+            ]
+        }
+    ]
+}

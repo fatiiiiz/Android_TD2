@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:1-47:12
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:1-47:12
+	package
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:8:5-9:23
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:10:5-11:23
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:12:5-13:23
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:14:5-15:23
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:14:22-72
+application
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:17:5-45:19
+	android:label
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:19:9-45
+	android:allowBackup
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:21:9-40
+activity#andro.jf.androclassloader.MainActivity
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:22:9-30:20
+	android:label
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:24:13-45
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:23:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:28:27-74
+activity#andro.jf.androclassloader.MainActivity2
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:33:13-66
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:32:13-42
+activity#andro.jf.androclassloader.MainActivity3
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:37:13-66
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:36:13-42
+activity#andro.jf.appli.RandomActivity
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:39:19-63
+activity#andro.jf.androclassloader.MonProfil
+ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:41:9-44:20
+	android:label
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:43:13-62
+	android:name
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml:42:13-38
+uses-sdk
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\user\Desktop\Androin\Android_td2\Android_TD2\AndroClassLoader\app\src\main\AndroidManifest.xml
